@@ -1,0 +1,15 @@
+{
+    "name": "lijiantao/book",
+    "autoload": {
+        "psr-4": {
+            "Book\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "黎大胆",
+            "email": "1151904797@qq.com"
+        }
+    ],
+    "require": {}
+}
